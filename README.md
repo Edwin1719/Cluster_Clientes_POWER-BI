@@ -1,10 +1,9 @@
 # CUSTOMER_CLUSTERS_POWER-BI
-This repository, contains Power BI Dashboard for the visualization of customer segments in large sales areas from an unsupervised automatic Learning Algorithm, for a database of almost 500 thousand records.
 
 ![Logo](https://unade.edu.mx/wp-content/uploads/2020/06/segmentacion-de-mercado.jpg)
 
 
-## Run a product recommendation algorithm on offer within a small Streamlit App, for a renowned e-commerce site in Colombia.
+## This repository, contains Power BI Dashboard for the visualization of customer segments in large sales areas from an unsupervised automatic Learning Algorithm, for a database of almost 500 thousand records..
 ## Features
 
 - **Work environment and data loading:** Installation of Libraries, work environment and Database from public link
