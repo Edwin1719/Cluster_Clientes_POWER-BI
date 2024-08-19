@@ -1,7 +1,7 @@
 # CUSTOMER_CLUSTERS_POWER-BI
 This repository, contains Power BI Dashboard for the visualization of customer segments in large sales areas from an unsupervised automatic Learning Algorithm, for a database of almost 500 thousand records.
 
-![Logo](https://www.solusoft.es/Info/Imagenes/innovacion/inteligencia-artificial-big2.jpg)
+![Logo](https://tecnosoluciones.com/wp-content/uploads/2023/06/segmentacion-de-clientes-con-crm.png)
 
 
 ## Run a product recommendation algorithm on offer within a small Streamlit App, for a renowned e-commerce site in Colombia.
